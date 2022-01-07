@@ -1,9 +1,8 @@
-### Hi there, I'm Yusuf Can - aka [codeSTACKr][website] 👋 
+### Hi there, I'm Yusuf Can - 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)]()
 
-## I'm a Blockchain Developer,!!
+
+## I'm a Blockchain Developer,Resarcher and Traveler!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -17,6 +16,8 @@
 [<img align="left" alt="yusufcanakier | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="yusufcanakier | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
 <br />
 
 
