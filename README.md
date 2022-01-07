@@ -12,7 +12,8 @@
 
 -    ░▒▓█ 𝑰'𝒎 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 Solidity █▓▒░
   
-- 💬 𝐇𝐞𝐥𝐥𝐨. 𝐈 𝐚𝐦 student at KTU. I am Blockchain and Game Developer at Games United.
+- 💬 𝐇𝐞𝐥𝐥𝐨. 𝐈 𝐚𝐦 student at KTU. 
+- I am Blockchain and Game Developer at Games United.
 I am currently working on NFT Games and P2E. I love basketball and chat.
 
 - :books: 𝐈'𝐦 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 distopic 𝐧𝐨𝐯𝐞𝐥𝐬
@@ -76,7 +77,7 @@ I am currently working on NFT Games and P2E. I love basketball and chat.
 <details>
 <summary> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫</summary>
   
- - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](https://www.yusufcanakierr@gmail.com) yusufcanakierr@gmail.com
+ - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=badge&logo=gmail&logoColor=white)](https://www.yusufcanakierr@gmail.com)yusufcanakierr@gmail.com
  - [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=badge&logo=instagram&logoColor=white)](https://www.instagram.com/yusufcanakier/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufcanakier) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=badge&logo=twitter&logoColor=white)](https://twitter.com/canakier) 
