@@ -12,7 +12,8 @@
   
 - 💬 𝐇𝐞𝐥𝐥𝐨. 𝐈 𝐚𝐦 student at KTU. 
 - I am Blockchain and Game Developer at Games United.
-I am currently working on NFT Games and P2E. I love basketball and chat.
+I am currently working on NFT Games and P2E. 
+- 🏀 I love basketball.
 
 - :books: 𝐈'𝐦 𝐫𝐞𝐚𝐝𝐢𝐧𝐠 distopic 𝐧𝐨𝐯𝐞𝐥𝐬
 ---
