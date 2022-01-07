@@ -1,7 +1,7 @@
  <h1 align="center">╰☆☆ 𝐇𝐢,𝐈'𝐦 YUSUF CAN ☆☆╮ </h1>
 
 
-## [![Github](https://img.shields.io/github/followers/yusufCanAkier?label=Follow&style=social)](https://github.com/yusufCanAkier) [![Github](https://img.shields.io/github/stars/rzayevsahil?label=Star&style=social)](https://github.com/yusufCanAkier)
+## [![Github](https://img.shields.io/github/followers/yusufCanAkier?label=Follow&style=social)](https://github.com/yusufCanAkier) [![Github](https://img.shields.io/github/stars/yusufCanAkier?label=Star&style=social)](https://github.com/yusufCanAkier)
 
 
 
