@@ -34,10 +34,6 @@ I am currently working on NFT Games and P2E.
  
  <div align="center">
   
- <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=yusufCanAkier&repo=ReCapProject&show_icons=true&theme=dark">
-  
- <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=yusufCanAkier&repo=RecapProjectFrontend&show_icons=true&theme=dark">
-  
   <img height=140 src="https://github-profile-trophy.vercel.app/?username=yusufCanAkier&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="yusufCanAkier" />
 
 </div>
