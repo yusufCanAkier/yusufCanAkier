@@ -25,7 +25,7 @@ I am currently working on NFT Games and P2E.
 <summary> 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨 :zap: </summary>
  <div align="center">
     
- <img height=177 src="https://github-readme-stats.vercel.app/api?username=yusufCanAkier&show_icons=true&theme=dark" alt="yusufCanAkier" />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufCanAkier)](https://github.com/anuraghazra/github-readme-stats)
   
  <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufCanAkier&theme=tokyonight&layout=compact">
   
