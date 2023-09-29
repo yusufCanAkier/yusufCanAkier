@@ -14,6 +14,3 @@
 <a href="https://instagram.com/yusufcanakier" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yusufcanakier" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufcanakier&" alt="yusufcanakier" /></p>
